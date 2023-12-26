@@ -1,0 +1,43 @@
+#leftGuide{
+    background:#3e3f43;
+    padding:20px;
+    border:3px solid gray;
+    font-size:20px;
+}
+#leftGuide::item{
+    color:white;
+    height:50px;
+    padding-left:10px;
+}
+#searchBtn{
+    background:#5D6264;
+    font-size:20px;
+    color:red;
+    border:1px solid white;
+}
+#rightWidget_of_videoPlay{
+    background:#2e2f33;
+    border:3px solid gray;
+}
+#PgUp{
+    width:70px;
+    height:40px;
+    font-size:20px;
+}
+#PgDn{
+    width:70px;
+    height:40px;
+    font-size:20px;
+}
+#videoListWidget{
+    background:#3e3f43;
+    padding-left:45px;
+    padding-top:13px;
+    color:white;
+}
+#pageLab{
+    color:#e6e6e6;
+    font-size:20px;
+}
+
+

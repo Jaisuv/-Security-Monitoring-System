@@ -1,0 +1,19 @@
+#deviceListWidget{
+    background:#2e2f33;
+}
+#deviceTitle{
+    color:#e6e6e6;
+    font-size:25px;
+    font-weight:900;
+}
+#channelSelectWidget{
+    background:#2e2f33;
+}
+#devicesList{
+    background:#3e3f43;
+}
+#devicesList::item{
+    color:white;
+    height:50px;
+    font-size:20px;
+}

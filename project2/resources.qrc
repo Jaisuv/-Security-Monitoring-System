@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/myscene.jpg</file>
+        <file>images/item1.png</file>
+        <file>images/item2.png</file>
+        <file>images/bootloadwinicon.png</file>
+        <file>qss/setting.qss</file>
+        <file>qss/login.qss</file>
+        <file>images/unvisible.png</file>
+        <file>images/visible.png</file>
+        <file>qss/regist.qss</file>
+        <file>images/mainlogo.png</file>
+        <file>qss/main.qss</file>
+        <file>qss/monitor_of_main.qss</file>
+        <file>images/fourGrid.png</file>
+        <file>images/channel3gif.gif</file>
+        <file>qss/playback_of_main.qss</file>
+        <file>qss/playBack.qss</file>
+        <file>images/start_icon.png</file>
+        <file>images/stop_icon.png</file>
+        <file>images/24gf-next.png</file>
+        <file>images/24gf-previous.png</file>
+        <file>images/noCamera.png</file>
+        <file>images/virtualCamera.png</file>
+        <file>images/videoPic1.jpg</file>
+        <file>images/videoPic2.jpg</file>
+        <file>images/videoPic3.jpg</file>
+    </qresource>
+</RCC>

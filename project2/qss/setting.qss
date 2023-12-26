@@ -1,0 +1,50 @@
+#settingWin{
+    background:#2e2f33;
+}
+#title{
+    color:#e6e6e6;
+    font-size:32px;
+    font-weight:900;
+}
+QLabel
+{
+    color:#e6e6e6;
+    font-size:16px;
+    font-weight:400;
+}
+QPushButton{
+    background-color:#dcdcdc;
+    border:none;
+    color:black;
+    font-size:20px;
+    width:80px;
+    height:36px;
+    border-radius:8px;
+}
+QPushButton:hover{
+    background-color:#87ceeb;
+    color:white;
+}
+QPushButton#videoPthBtn{
+    width:30px;
+    height:30px;
+    border-radius:2px;
+}
+QPushButton#photoPthBtn{
+    width:30px;
+    height:30px;
+    border-radius:2px;
+}
+QLineEdit{
+    width:160px;
+    height:30px;
+}
+QComboBox{
+    width:160px;
+    height:28px;
+    font-weight:500;
+    padding-left:10px;
+}
+
+
+
